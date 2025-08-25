@@ -1,17 +1,15 @@
 html, body {
-    margin: 0;
-    padding: 0;
-    width: 100vw;
-    height: 100vh;
+    background-size: cover;
+    background-image: url('https://st3.depositphotos.com/1053778/15021/i/450/depositphotos_150211558-stock-photo-panorama-of-the-mountain-range.jpg');
 
+} 
+h1 {
+text-align: center;
+margin-top: 100px;
+font-size: 80px;
+color: rgb(83, 124, 97);
+font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+  
 }
 
-.bg{
-  position: fixed;  
-  top: 0;
-  left: 0;
-  width: 100vw;
-  height: 100vh;
-  object-fit: cover;
-  z-index: -1;
-}
