@@ -10,17 +10,17 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Kaua Henrique de Oliveira
+- Matricula: 903204
+- Proposta de projeto escolhida: Temas e Conteúdos Associados
+- Breve descrição sobre seu projeto: O site permite explorar e comparar diferentes animais pré-históricos, mostrando informações detalhadas sobre cada espécie, como tamanho, peso, período em que viveram e curiosidades. Ele funciona como um catálogo interativo, permitindo que os usuários visualizem comparações de tamanho entre os animais, aprendam sobre suas características e conheçam um pouco mais sobre a vida na era dos dinossauros. O foco é educativo e visual, tornando o aprendizado sobre pré-história mais dinâmico e intuitivo.
 
 
 ## Print do(s) wireframe(s) criado
 
-<<  COLOQUE A IMAGEM AQUI >>
-
+![Print do(s) wireframe(s) criado](wireflame.png)
 
 ## Print da home-page criada
 
-<<  COLOQUE A IMAGEM AQUI >>
+![Print da home-page criada](home.png)
+
